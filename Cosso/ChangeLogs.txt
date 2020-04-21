@@ -1,0 +1,6 @@
+------------  VERSION 1.0.1  ------------
+- Update Sticky Header
+- Update Style for Blog Masonry and Blog Listing
+
+------------  VERSION 1.0.0  ------------
+! Initial Release
